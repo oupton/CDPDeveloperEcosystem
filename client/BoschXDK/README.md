@@ -1,7 +1,7 @@
 # Bosch XDK Onboarding
 
 ### Prerequisites
-- Bosch XDK Workbench
+- [Bosch XDK Workbench](https://xdk.bosch-connectivity.com/software)
 - A Micro SD Card
 
 ### Procedure
